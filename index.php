@@ -15,6 +15,6 @@
     <p><?php echo " ". $string . " "?> !!!</p>
 
     <h2>Censurato</h2>
-    <p><?php echo " ".$string2 ?></p>
+    <p><?php echo " ". $string2 ?></p>
 </body>
 </html>
